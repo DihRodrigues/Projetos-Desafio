@@ -1,0 +1,3 @@
+[submodule "mySpot-pageLogin"]
+	path = mySpot-pageLogin
+	url = git@github.com:DihRodrigues/mySpot-pageLogin.git
